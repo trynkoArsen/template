@@ -1,0 +1,5 @@
+build
+node_modules
+.github
+README.md
+sentry.client.config.js
